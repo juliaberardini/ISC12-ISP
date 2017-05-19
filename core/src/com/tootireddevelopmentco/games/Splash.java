@@ -1,64 +1,4 @@
-package com.mygdx.mygame.screens;
-
-/*import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.Screen;
-import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.graphics.g2d.Sprite;
-import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-
-public class Splash implements Screen {
-	
-	private Sprite splash; 
-	private SpriteBatch batch; 
-
-	@Override
-	public void show() {
-		batch = new SpriteBatch (); 
-		
-		Texture splashTexture = new Texture ("img/splishsplash.png"); 
-		splash = new Sprite (splashTexture); 
-		splash.setSize (Gdx.graphics.getWidth (), Gdx.graphics.getHeight ()); 
-		
-	}
-
-	@Override
-	public void render(float delta) {
-		
-		
-	}
-
-	@Override
-	public void resize(int width, int height) {
-		
-		
-	}
-
-	@Override
-	public void pause() {
-		
-		
-	}
-
-	@Override
-	public void resume() {
-		
-		
-	}
-
-	@Override
-	public void hide() {
-	
-		
-	}
-
-	@Override
-	public void dispose() {
-		
-		
-	}
-
-
-}*/ 
+package com.tootireddevelopmentco.games;
 
 import aurelienribon.tweenengine; 
 import aurelienribon.tweenengine.Tween;
@@ -140,26 +80,5 @@ public class Splash implements Screen {
 		
 	}
 
-	@Override
-	public void pause() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void resume() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void hide() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void dispose() {
-		// TODO Auto-generated method stub
 		
 	}

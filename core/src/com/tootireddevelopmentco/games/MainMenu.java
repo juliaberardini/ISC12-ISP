@@ -1,4 +1,4 @@
-package com.mygdx.mygame.screens;
+package com.tootireddevelopmentco.games;
 
 import static com.badlogic.gdx.scenes.scene2d.actions.Actions.moveTo;
 import static com.badlogic.gdx.scenes.scene2d.actions.Actions.run;
